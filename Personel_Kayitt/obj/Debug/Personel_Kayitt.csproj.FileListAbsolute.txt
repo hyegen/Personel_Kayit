@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\bin\Debug\Personel_Kayitt.exe.config
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\bin\Debug\Personel_Kayitt.exe
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\bin\Debug\Personel_Kayitt.pdb
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.Form1.resources
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.exe
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.pdb
+C:\Users\Administrator\source\repos\Personel_Kayitt\Personel_Kayitt\obj\Debug\Personel_Kayitt.Frmistatistik.resources
