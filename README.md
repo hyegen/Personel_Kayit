@@ -1,1 +1,1 @@
-# Personel_Kayit_Otomasyon
+Person registration automation.
